@@ -6,7 +6,7 @@ The Mobile Phone Management System (MPMS) is designed to streamline the operatio
 
 # Schema Diagram :
 
-<img width="645" alt="diagram" src="https://github.com/user-attachments/assets/58cac8d3-29dc-4933-82e0-c38073b453f3">
+<img width="645" alt="diagram" src="https://github.com/user-attachments/assets/aa4fc611-e191-4d7f-a644-c1a3598f9af3">
 
 # Navigation Diagram :
 
