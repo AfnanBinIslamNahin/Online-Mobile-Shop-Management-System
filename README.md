@@ -124,7 +124,7 @@ CREATE TABLE [dbo].[add_phone] (
 ### Screenshots
 
 # Login Page:
-<img width="500" alt="p1" src="https://github.com/user-attachments/assets/f94ee71a-6882-43d2-acb7-7aebfe03f81d">
+<img width="500" alt="p1" src="https://github.com/user-attachments/assets/57456017-6a69-482d-bd44-745145e5525d">
 
 # Customer Signup Page:
 <img width="476" alt="p18" src="https://github.com/user-attachments/assets/29124dbc-7cb1-499b-8c1b-e3b2784fac11">
