@@ -168,7 +168,7 @@ CREATE TABLE [dbo].[add_phone] (
 # Customer mobile service page:
 <img width="767" alt="p14" src="https://github.com/user-attachments/assets/8cc04766-7714-4739-9be1-763fa5e05f77">
 
-# Service center page:
+# Reply Service center page:
 <img width="640" alt="p15" src="https://github.com/user-attachments/assets/e13fe227-3638-4401-8e0a-2107a2efa0d3">
 
 # Order request page:
