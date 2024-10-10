@@ -127,55 +127,55 @@ CREATE TABLE [dbo].[add_phone] (
 <img width="500" alt="p1" src="https://github.com/user-attachments/assets/57456017-6a69-482d-bd44-745145e5525d">
 
 # Customer Signup Page:
-<img width="476" alt="p18" src="https://github.com/user-attachments/assets/29124dbc-7cb1-499b-8c1b-e3b2784fac11">
+<img width="476" alt="p18" src="https://github.com/user-attachments/assets/7265dec4-b22a-4b98-8efb-64fb335a3e4d">
 
 # Admin Signup page:
-<img width="473" alt="p19" src="https://github.com/user-attachments/assets/f8ce7c7e-d02c-4616-a79a-bae7416c45fe">
+<img width="473" alt="p19" src="https://github.com/user-attachments/assets/90e6eb2e-f491-4e42-beb8-78d61bddccd4">
 
 # Admin profile:
-<img width="749" alt="p2" src="https://github.com/user-attachments/assets/6359d2b1-e190-4f40-a1fd-21b38c75ed58">
+<img width="749" alt="p2" src="https://github.com/user-attachments/assets/5cf6a0a2-f70c-4b8d-bca7-65cc8ffab6d3">
 
 # Admin Add Mobile Page:
-<img width="812" alt="p3" src="https://github.com/user-attachments/assets/eabbe937-1cb2-4246-996e-2fee239fd5ed">
+<img width="812" alt="p3" src="https://github.com/user-attachments/assets/adf1617b-12f0-4d92-9f79-37c4e2caa047">
 
 # Admin Stock page:
-<img width="866" alt="p4" src="https://github.com/user-attachments/assets/e89aae07-ffd6-4bcf-bd2c-04ff12bf7df5">
+<img width="866" alt="p4" src="https://github.com/user-attachments/assets/593747e8-effa-4428-bebf-af4a402c8868">
 
 # Admin User Information Page:
-<img width="889" alt="p5" src="https://github.com/user-attachments/assets/991c7139-1eaf-4bd4-ae1d-58f38acb918e">
+<img width="889" alt="p5" src="https://github.com/user-attachments/assets/a4922743-2a83-4d3a-b073-ab86c482f85d">
 
 # Customer record page:
-<img width="643" alt="p6" src="https://github.com/user-attachments/assets/fa91c94a-1b07-4bad-b58d-79793e4500df">
+<img width="643" alt="p6" src="https://github.com/user-attachments/assets/8bc9fae8-b2b6-40bb-b315-cf2fa3b1f93a">
 
 # Admin order request page:
-<img width="770" alt="p7" src="https://github.com/user-attachments/assets/64b07d3e-8abc-4f5e-a456-c765bc758600">
+<img width="770" alt="p7" src="https://github.com/user-attachments/assets/7c92b7cf-988b-4aa2-8681-3219d7af770b">
 
 # Admin review page:
-<img width="789" alt="p8" src="https://github.com/user-attachments/assets/b15bafc1-d2d7-459d-87d0-4e1fe3b42323">
+<img width="789" alt="p8" src="https://github.com/user-attachments/assets/5bddd91b-372e-48a9-aaae-60abd7d9c24a">
 
 # Service center page:
-<img width="748" alt="p9" src="https://github.com/user-attachments/assets/ca6ac68f-bf5b-480e-b218-53c6bae1fd16">
+<img width="748" alt="p9" src="https://github.com/user-attachments/assets/a365e835-a1cc-484c-8e8c-364825da86ef">
 
 # Customer profile:
-<img width="736" alt="p11" src="https://github.com/user-attachments/assets/a0fd8750-3b0f-4c93-aa70-5f7675bc8ca8">
+<img width="736" alt="p11" src="https://github.com/user-attachments/assets/d90e43a7-9bdd-4032-ba0c-a1e3a5323cd9">
 
 # Mobile search page:
-<img width="868" alt="p12" src="https://github.com/user-attachments/assets/c3affe75-f804-4962-8d40-8475d727f3d2">
+<img width="868" alt="p12" src="https://github.com/user-attachments/assets/d187cf6c-eccb-4ea8-b8e1-c344c46a040d">
 
 # Mobile purchase page:
-<img width="779" alt="p13" src="https://github.com/user-attachments/assets/2a2e0867-d17f-4801-a9af-fa7baca81a65">
+<img width="779" alt="p13" src="https://github.com/user-attachments/assets/deeb106f-2400-4e61-a832-6be7012205f7">
 
 # Customer mobile service page:
-<img width="767" alt="p14" src="https://github.com/user-attachments/assets/86ecab84-ec8d-4f7a-b60e-ec7197f97d37">
+<img width="767" alt="p14" src="https://github.com/user-attachments/assets/8cc04766-7714-4739-9be1-763fa5e05f77">
 
 # Service center page:
-<img width="640" alt="p15" src="https://github.com/user-attachments/assets/998177d4-03ba-467b-b645-7dd215cb43a8">
+<img width="640" alt="p15" src="https://github.com/user-attachments/assets/e13fe227-3638-4401-8e0a-2107a2efa0d3">
 
 # Order request page:
-<img width="746" alt="p16" src="https://github.com/user-attachments/assets/08a2427f-e029-44f4-8a04-f4f65649e52b">
+<img width="746" alt="p16" src="https://github.com/user-attachments/assets/d43bb3e7-5e53-4887-b0b8-fafa8bb6c316">
 
 # Review page:
-<img width="641" alt="p17" src="https://github.com/user-attachments/assets/e8ed9854-61cd-412a-9580-6d9fd752fb53">
+<img width="641" alt="p17" src="https://github.com/user-attachments/assets/28d33af1-3eca-4dd7-a8f1-0d55d48b4e9e">
 
 
 
