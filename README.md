@@ -10,7 +10,8 @@ The Mobile Phone Management System (MPMS) is designed to streamline the operatio
 
 # Navigation Diagram :
 
-<img width="476" alt="Screenshot 2024-09-26 at 3 42 43 PM" src="https://github.com/user-attachments/assets/503f08e4-ea6a-437d-9e33-f0dd779ca428">
+<img width="476" alt="Screenshot 2024-09-26 at 3 42 43 PM" src="https://github.com/user-attachments/assets/2f19da00-7a07-4f80-b5a8-f2a1164f3743">
+
 
 # SQL Query :
 #### users table
